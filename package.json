@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thijsrijkers/visual/issues"
   },
-  "homepage": "https://github.com/thijsrijkers/visual#readme"
+  "homepage": "https://github.com/thijsrijkers/visual#readme",
+  "dependencies": {
+    "simple-git": "^3.2.6"
+  }
 }
