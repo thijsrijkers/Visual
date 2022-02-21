@@ -1,0 +1,19 @@
+{
+  "name": "visual",
+  "version": "0.1.0",
+  "description": "> Represent the current state of a application based on selected git branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thijsrijkers@github.com/thijsrijkers/visual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijsrijkers/visual/issues"
+  },
+  "homepage": "https://github.com/thijsrijkers/visual#readme"
+}
