@@ -2,9 +2,9 @@
   "name": "visual",
   "version": "0.1.0",
   "description": "> Represent the current state of a application based on selected git branch",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node src/init.ts"
   },
   "repository": {
     "type": "git",
