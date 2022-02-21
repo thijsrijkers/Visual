@@ -1,2 +1,2 @@
 # represent
-Represent is a tool to display current distributed dev on git
+> Represent the current state of a application based on selected git branch
