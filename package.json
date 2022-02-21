@@ -18,5 +18,8 @@
   "homepage": "https://github.com/thijsrijkers/visual#readme",
   "dependencies": {
     "simple-git": "^3.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.19"
   }
 }
