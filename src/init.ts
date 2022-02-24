@@ -6,7 +6,7 @@ cloneRepo();
 async function cloneRepo(): Promise<void> {
     try {
         await conf.git.init();
-        await conf.git.clone('https://github.com/thijsrijkers/SpaceCoin.git', './dist')
+        await conf.git.clone('https://github.com/thijsrijkers/Enchantment.git', './dist')
     } catch (error) {
         await conf.git.pull()
     }

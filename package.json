@@ -4,7 +4,7 @@
   "description": "> Represent the current state of a application based on selected git branch",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node src/init.ts"
+    "start": "ts-node src/init.ts & npm start --prefix ./dist"
   },
   "repository": {
     "type": "git",
