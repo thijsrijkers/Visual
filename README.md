@@ -6,7 +6,7 @@ Represent the current state of a application based on selected git branch
 ## Use
 To use Visual you need to pull the repo/add the NPM package. In your package.json you need to add the following field:
 ```JSON
-  "target": "",
+ "target": "",
   ```
   In this "target" field you will put your git.ssh link. After this you need to run:
 ```Typescript
