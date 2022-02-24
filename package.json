@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "> Represent the current state of a application based on selected git branch",
   "main": "index.ts",
+  "target": "",
   "scripts": {
     "start": "ts-node src/init.ts & npm start --prefix ./dist"
   },
